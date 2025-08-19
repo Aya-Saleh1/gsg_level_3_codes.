@@ -41,7 +41,7 @@ void rec(int idx , vector<string> curr) {
         curr.pop_back();
     }
     }
-}s
+}
        void solve() {
     cin >>n ;
  rec(0 , {});
